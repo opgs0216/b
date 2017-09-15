@@ -1,5 +1,5 @@
 <?php 
-echo "cat";
+echo "i am cat";
 echo "i am master";
 ?>
 
